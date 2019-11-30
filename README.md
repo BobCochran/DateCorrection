@@ -11,14 +11,15 @@ If the value for this key is a NumberLong value representing the number of milli
 
 ### Source Code
 
-Source code is in the form of either Node.js v12.13.1 or Unix (specifically, bash) shell scripts. 
+Source code is provided as a mix of Node.js v12.13.1 scripts, Python 3 scripts, or Unix (specifically, bash) shell scripts. 
 
 #### Software Prerequisites
 
-Node.js version 12.13.1 or later.
+Node.js version 12.13.1 or newer.
+Python 3 version 3.7.3 or newer.
 Server operating system: Debian 10.1 or later. The provided source code should work under all recent Linux/Unix/Debian operating systems.
 MongoDB Database, Community or Enterprise Edition, version 4.x.
 
 ### License
 MIT. See LICENSE.txt.
- 
+
