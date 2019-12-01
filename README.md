@@ -24,7 +24,11 @@ pymongo          3.9.0
 python-dateutil  2.8.1
 
 Server operating system: Debian 10.1 or later. The provided source code should work under all recent Linux/Unix/Debian operating systems.
-MongoDB Database, Community or Enterprise Edition, version 4.x.
+MongoDB Database, Community or Enterprise Edition, version 4.x. Version 4.2.1 was used in testing.
+
+#### Database objects
+
+A MongoDB dump directory is provided which contains a problem database and problem collection and a collection containing documents that reflect corrected ISODate() objects in the "published_date" values.
 
 ### License
 MIT. See LICENSE.txt.
