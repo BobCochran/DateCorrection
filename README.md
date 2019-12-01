@@ -17,6 +17,12 @@ Source code is provided as a mix of Node.js v12.13.1 scripts, Python 3 scripts, 
 
 Node.js version 12.13.1 or newer.
 Python 3 version 3.7.3 or newer.
+
+#### pip3 Modules Required
+
+pymongo          3.9.0        
+python-dateutil  2.8.1
+
 Server operating system: Debian 10.1 or later. The provided source code should work under all recent Linux/Unix/Debian operating systems.
 MongoDB Database, Community or Enterprise Edition, version 4.x.
 
